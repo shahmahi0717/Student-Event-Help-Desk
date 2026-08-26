@@ -1,1 +1,2 @@
-# Student-Event-Help-Desk
+# WEB DEVELOPMENT FRAMEWORKS PRACTICAL CIE
+# SET B - Student Event & Help Desk Page
